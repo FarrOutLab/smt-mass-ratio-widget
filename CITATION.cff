@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Farr
+  given-names: Ben
+- family-names: Godfrey
+  given-names: Jaxen
+- family-names: van Son
+  given-names: Lieke
+title:FarrOutLab/smt-mass-ratio-widget: Paper Submission
+version: v1.0.0
+date-released: 2026-08-11
